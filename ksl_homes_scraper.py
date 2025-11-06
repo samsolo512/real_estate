@@ -236,6 +236,7 @@ class KSLHomesScraper:
         Returns:
             DataFrame with all scraped property data
         """
+        self.properties_data = []
         listing_urls = self.get_listing_urls(max_pages=max_pages)
 
         if max_properties:

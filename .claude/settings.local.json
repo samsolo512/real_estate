@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell:*)",
+      "Bash(uv pip list:*)",
+      "Bash(findstr:*)",
+      "Bash(uv add:*)",
+      "Bash(python:*)",
+      "Bash(del test_fixed_*.csv)",
+      "Bash(rm:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

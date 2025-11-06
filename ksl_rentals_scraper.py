@@ -257,6 +257,7 @@ class KSLRentalsScraper:
         Returns:
             DataFrame with all scraped rental data
         """
+        self.rentals_data = []
         rental_urls = self.get_rental_urls(max_pages=max_pages)
 
         if max_rentals:

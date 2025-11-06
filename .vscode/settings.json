@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "jupyter.kernels.filter": [],
+    "jupyter.widgetScriptSources": ["jsdelivr.com", "unpkg.com"],
+    "notebook.defaultFormatter": "ms-python.python",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.jupyterServerType": "local",
+    "notebook.kernelProviderAssociations": {
+        "jupyter-notebook": "ms-toolsai.jupyter"
+    }
+}

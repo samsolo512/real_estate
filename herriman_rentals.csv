@@ -1,21 +1,37 @@
 listing_id,address,city,state,zip,url,monthly_rent,property_type,sqft,bedrooms,bathrooms,pets_allowed,annual_rent,rent_per_sqft
-1004607230,14852 S. Diorite Ct.,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14852-S.-Diorite-Ct.-Herriman-UT-84096/1004607230,1595.0,Rental,1689.0,3.0,,Yes,19140.0,0.94
-1004605766,14348 Cobden Court,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14348-Cobden-Court-Herriman-UT-84096/1004605766,1625.0,Rental,1680.0,3.0,,Yes,19500.0,0.97
-1004652313,14591 South Elysian Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14591-South-Elysian-Way-Herriman-UT-84096/1004652313,2095.0,Rental,2331.0,3.0,,Yes,25140.0,0.9
-1004648219,14427 S Abbey Bend Ln,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14427-S-Abbey-Bend-Ln-Herriman-UT-84096/1004648219,1795.0,Rental,1853.0,3.0,,Yes,21540.0,0.97
-1004654010,5141 W Capricco Ct,Herriman,UT,84096,https://homes.ksl.com/rent/detail/5141-W-Capricco-Ct-Herriman-UT-84096/1004654010,1750.0,Rental,1220.0,3.0,,Yes,21000.0,1.43
-1004652412,14601 South Pebble Rose Drive,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14601-South-Pebble-Rose-Drive-Herriman-UT-84096/1004652412,1995.0,Rental,2376.0,3.0,,Yes,23940.0,0.84
-1004605772,14941 Tumble Rock Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14941-Tumble-Rock-Way-Herriman-UT-84096/1004605772,1545.0,Rental,1298.0,3.0,,Yes,18540.0,1.19
-1004618606,14411 Ashburn Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14411-Ashburn-Way-Herriman-UT-84096/1004618606,1795.0,Rental,1680.0,3.0,,Yes,21540.0,1.07
-1004608969,4149 Miner View Lane,Herriman,UT,84096,https://homes.ksl.com/rent/detail/4149-Miner-View-Lane-Herriman-UT-84096/1004608969,1670.0,Rental,1905.0,3.0,,Yes,20040.0,0.88
-1004626996,,,,,https://homes.ksl.com/rent/detail/14647-South-Alpine-View-Drive-Herriman-UT-84096/1004626996,3250.0,Rental,0.0,,,,39000.0,
-1004656024,14409 Oakfield Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14409-Oakfield-Way-Herriman-UT-84096/1004656024,1975.0,Rental,2000.0,3.0,,Yes,23700.0,0.99
-1004606334,14967 Lost Miner Lane,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14967-Lost-Miner-Lane-Herriman-UT-84096/1004606334,1795.0,Rental,1803.0,3.0,,No,21540.0,1.0
-1004607230,14852 S. Diorite Ct.,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14852-S.-Diorite-Ct.-Herriman-UT-84096/1004607230,1595.0,Rental,1689.0,3.0,,Yes,19140.0,0.94
-1004605766,14348 Cobden Court,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14348-Cobden-Court-Herriman-UT-84096/1004605766,1625.0,Rental,1680.0,3.0,,Yes,19500.0,0.97
-1004652313,14591 South Elysian Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14591-South-Elysian-Way-Herriman-UT-84096/1004652313,2095.0,Rental,2331.0,3.0,,Yes,25140.0,0.9
-1004648219,14427 S Abbey Bend Ln,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14427-S-Abbey-Bend-Ln-Herriman-UT-84096/1004648219,1795.0,Rental,1853.0,3.0,,Yes,21540.0,0.97
-1004654010,5141 W Capricco Ct,Herriman,UT,84096,https://homes.ksl.com/rent/detail/5141-W-Capricco-Ct-Herriman-UT-84096/1004654010,1750.0,Rental,1220.0,3.0,,Yes,21000.0,1.43
-1004652412,14601 South Pebble Rose Drive,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14601-South-Pebble-Rose-Drive-Herriman-UT-84096/1004652412,1995.0,Rental,2376.0,3.0,,Yes,23940.0,0.84
-1004605772,14941 Tumble Rock Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14941-Tumble-Rock-Way-Herriman-UT-84096/1004605772,1545.0,Rental,1298.0,3.0,,Yes,18540.0,1.19
-1004618606,14411 Ashburn Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14411-Ashburn-Way-Herriman-UT-84096/1004618606,1795.0,Rental,1680.0,3.0,,Yes,21540.0,1.07
+1004605766,14348 Cobden Court,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14348-Cobden-Court-Herriman-UT-84096/1004605766,1625.0,Rental,1680.0,3,,Yes,19500.0,0.97
+1004607230,14852 S. Diorite Ct.,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14852-S.-Diorite-Ct.-Herriman-UT-84096/1004607230,1595.0,Rental,1689.0,3,,Yes,19140.0,0.94
+1004605091,4417 W. Lower Meadow Dr.,Herriman,UT,84096,https://homes.ksl.com/rent/detail/4417-W.-Lower-Meadow-Dr.-Herriman-UT-84096/1004605091,2245.0,Rental,2330.0,3,,Yes,26940.0,0.96
+1004606334,14967 Lost Miner Lane,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14967-Lost-Miner-Lane-Herriman-UT-84096/1004606334,1795.0,Rental,1803.0,3,,No,21540.0,1.0
+1004606352,14941 Tumble Rock Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14941-Tumble-Rock-Way-Herriman-UT-84096/1004606352,1695.0,Rental,1471.0,3,,Yes,20340.0,1.15
+1004608672,14394 Firgrove Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14394-Firgrove-Way-Herriman-UT-84096/1004608672,1670.0,Rental,1358.0,3,,Yes,20040.0,1.23
+1004652313,14591 South Elysian Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14591-South-Elysian-Way-Herriman-UT-84096/1004652313,2095.0,Rental,2331.0,3,,Yes,25140.0,0.9
+1004648219,14427 S Abbey Bend Ln,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14427-S-Abbey-Bend-Ln-Herriman-UT-84096/1004648219,1795.0,Rental,1853.0,3,,Yes,21540.0,0.97
+1004654010,5141 W Capricco Ct,Herriman,UT,84096,https://homes.ksl.com/rent/detail/5141-W-Capricco-Ct-Herriman-UT-84096/1004654010,1750.0,Rental,1220.0,3,,Yes,21000.0,1.43
+1004652412,14601 South Pebble Rose Drive,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14601-South-Pebble-Rose-Drive-Herriman-UT-84096/1004652412,1895.0,Rental,2376.0,3,,Yes,22740.0,0.8
+1004605772,14941 Tumble Rock Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14941-Tumble-Rock-Way-Herriman-UT-84096/1004605772,1545.0,Rental,1298.0,3,,Yes,18540.0,1.19
+1004618606,14411 Ashburn Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14411-Ashburn-Way-Herriman-UT-84096/1004618606,1795.0,Rental,1680.0,3,,Yes,21540.0,1.07
+1004605766,14348 Cobden Court,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14348-Cobden-Court-Herriman-UT-84096/1004605766,1625.0,Rental,1680.0,3,,Yes,19500.0,0.97
+1004607230,14852 S. Diorite Ct.,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14852-S.-Diorite-Ct.-Herriman-UT-84096/1004607230,1595.0,Rental,1689.0,3,,Yes,19140.0,0.94
+1004605091,4417 W. Lower Meadow Dr.,Herriman,UT,84096,https://homes.ksl.com/rent/detail/4417-W.-Lower-Meadow-Dr.-Herriman-UT-84096/1004605091,2245.0,Rental,2330.0,3,,Yes,26940.0,0.96
+1004606334,14967 Lost Miner Lane,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14967-Lost-Miner-Lane-Herriman-UT-84096/1004606334,1795.0,Rental,1803.0,3,,No,21540.0,1.0
+1004606352,14941 Tumble Rock Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14941-Tumble-Rock-Way-Herriman-UT-84096/1004606352,1695.0,Rental,1471.0,3,,Yes,20340.0,1.15
+1004608672,14394 Firgrove Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14394-Firgrove-Way-Herriman-UT-84096/1004608672,1670.0,Rental,1358.0,3,,Yes,20040.0,1.23
+1004652313,14591 South Elysian Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14591-South-Elysian-Way-Herriman-UT-84096/1004652313,2095.0,Rental,2331.0,3,,Yes,25140.0,0.9
+1004648219,14427 S Abbey Bend Ln,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14427-S-Abbey-Bend-Ln-Herriman-UT-84096/1004648219,1795.0,Rental,1853.0,3,,Yes,21540.0,0.97
+1004654010,5141 W Capricco Ct,Herriman,UT,84096,https://homes.ksl.com/rent/detail/5141-W-Capricco-Ct-Herriman-UT-84096/1004654010,1750.0,Rental,1220.0,3,,Yes,21000.0,1.43
+1004652412,14601 South Pebble Rose Drive,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14601-South-Pebble-Rose-Drive-Herriman-UT-84096/1004652412,1895.0,Rental,2376.0,3,,Yes,22740.0,0.8
+1004605772,14941 Tumble Rock Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14941-Tumble-Rock-Way-Herriman-UT-84096/1004605772,1545.0,Rental,1298.0,3,,Yes,18540.0,1.19
+1004618606,14411 Ashburn Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14411-Ashburn-Way-Herriman-UT-84096/1004618606,1795.0,Rental,1680.0,3,,Yes,21540.0,1.07
+1004605766,14348 Cobden Court,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14348-Cobden-Court-Herriman-UT-84096/1004605766,1625.0,Rental,1680.0,3,,Yes,19500.0,0.97
+1004607230,14852 S. Diorite Ct.,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14852-S.-Diorite-Ct.-Herriman-UT-84096/1004607230,1595.0,Rental,1689.0,3,,Yes,19140.0,0.94
+1004605091,4417 W. Lower Meadow Dr.,Herriman,UT,84096,https://homes.ksl.com/rent/detail/4417-W.-Lower-Meadow-Dr.-Herriman-UT-84096/1004605091,2245.0,Rental,2330.0,3,,Yes,26940.0,0.96
+1004606334,14967 Lost Miner Lane,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14967-Lost-Miner-Lane-Herriman-UT-84096/1004606334,1795.0,Rental,1803.0,3,,No,21540.0,1.0
+1004606352,14941 Tumble Rock Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14941-Tumble-Rock-Way-Herriman-UT-84096/1004606352,1695.0,Rental,1471.0,3,,Yes,20340.0,1.15
+1004608672,14394 Firgrove Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14394-Firgrove-Way-Herriman-UT-84096/1004608672,1670.0,Rental,1358.0,3,,Yes,20040.0,1.23
+1004652313,14591 South Elysian Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14591-South-Elysian-Way-Herriman-UT-84096/1004652313,2095.0,Rental,2331.0,3,,Yes,25140.0,0.9
+1004648219,14427 S Abbey Bend Ln,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14427-S-Abbey-Bend-Ln-Herriman-UT-84096/1004648219,1795.0,Rental,1853.0,3,,Yes,21540.0,0.97
+1004654010,5141 W Capricco Ct,Herriman,UT,84096,https://homes.ksl.com/rent/detail/5141-W-Capricco-Ct-Herriman-UT-84096/1004654010,1750.0,Rental,1220.0,3,,Yes,21000.0,1.43
+1004652412,14601 South Pebble Rose Drive,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14601-South-Pebble-Rose-Drive-Herriman-UT-84096/1004652412,1895.0,Rental,2376.0,3,,Yes,22740.0,0.8
+1004605772,14941 Tumble Rock Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14941-Tumble-Rock-Way-Herriman-UT-84096/1004605772,1545.0,Rental,1298.0,3,,Yes,18540.0,1.19
+1004618606,14411 Ashburn Way,Herriman,UT,84096,https://homes.ksl.com/rent/detail/14411-Ashburn-Way-Herriman-UT-84096/1004618606,1795.0,Rental,1680.0,3,,Yes,21540.0,1.07
