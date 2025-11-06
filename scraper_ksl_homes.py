@@ -131,8 +131,10 @@ class KSLHomesScraper:
             page += 1
             self._polite_delay()
 
-        print(f"\nTotal listings found: {len(listing_urls)}")
-        return listing_urls
+        # Remove duplicates while preserving order
+        unique_urls = list(dict.fromkeys(listing_urls))
+        print(f"\nTotal listings found: {len(listing_urls)} ({len(unique_urls)} unique)")
+        return unique_urls
 
     def scrape_property(self, url: str) -> Optional[Dict]:
         """

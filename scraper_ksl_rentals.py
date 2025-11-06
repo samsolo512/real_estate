@@ -183,8 +183,10 @@ class KSLRentalsScraper:
             page += 1
             self._polite_delay()
 
-        print(f"\nTotal rentals found: {len(rental_urls)}")
-        return rental_urls
+        # Remove duplicates while preserving order
+        unique_urls = list(dict.fromkeys(rental_urls))
+        print(f"\nTotal rentals found: {len(rental_urls)} ({len(unique_urls)} unique)")
+        return unique_urls
 
     def scrape_rental(self, url: str) -> Optional[Dict]:
         """
